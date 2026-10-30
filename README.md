@@ -12,6 +12,9 @@ Liquid components for React, rendered in WebGL on canvas, inspired by Apple's Li
 npm install @cruxgarden/plasma-ui
 ```
 
+## NPM package filename
+source-plasma-ui-0.8.0.tgz
+
 Zero dependencies, except for React. Best on desktop: the effect is GPU-heavy
 and does not run well on mobile.
 
